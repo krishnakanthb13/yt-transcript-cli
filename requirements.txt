@@ -1,0 +1,5 @@
+# Required — fallback fetch engine + `--list` language listing
+youtube-transcript-api>=1.0.0
+
+# Optional — clipboard copy (the tool works fine without it)
+pyperclip>=1.8
