@@ -173,5 +173,14 @@ chmod +x ytt.sh        # first time only
 
 ---
 
-Companion to the [browser extension](https://github.com/krishnakanthb13/yt-transcript-studio) ·
-[GPLv3 licensed](LICENSE). Free — [support it 💛](https://krishnakanthb13.github.io/S/).
+## License
+
+**ytt — YouTube Transcript CLI** — Copyright (C) 2026 Krishna Kanth B.
+Free software under the **GNU General Public License v3** (or any later version);
+distributed WITHOUT ANY WARRANTY. See [LICENSE](LICENSE) or
+<https://www.gnu.org/licenses/>.
+
+---
+
+Companion to the [browser extension](https://github.com/krishnakanthb13/yt-transcript-studio).
+Free — [support it 💛](https://krishnakanthb13.github.io/S/).
